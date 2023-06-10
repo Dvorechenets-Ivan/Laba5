@@ -1,0 +1,15 @@
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\bin\Release\net6.0\ConsoleApp22.exe
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\bin\Release\net6.0\ConsoleApp22.deps.json
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\bin\Release\net6.0\ConsoleApp22.runtimeconfig.json
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\bin\Release\net6.0\ConsoleApp22.dll
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\bin\Release\net6.0\ConsoleApp22.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.AssemblyInfo.cs
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.dll
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\refint\ConsoleApp22.dll
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ConsoleApp22.genruntimeconfig.cache
+C:\Users\2022\Desktop\Курс№1\Visual\ConsoleApp22\ConsoleApp22\obj\Release\net6.0\ref\ConsoleApp22.dll

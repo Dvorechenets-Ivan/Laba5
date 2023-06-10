@@ -1,0 +1,16 @@
+D:\project\двореченець1\bin\Debug\двореченець1.exe.config
+D:\project\двореченець1\bin\Debug\двореченець1.exe
+D:\project\двореченець1\bin\Debug\двореченець1.pdb
+D:\project\двореченець1\obj\Debug\двореченець1.csproj.AssemblyReference.cache
+D:\project\двореченець1\obj\Debug\двореченець1.csproj.SuggestedBindingRedirects.cache
+D:\project\двореченець1\obj\Debug\двореченець1.csproj.CoreCompileInputs.cache
+D:\project\двореченець1\obj\Debug\двореченець1.exe
+D:\project\двореченець1\obj\Debug\двореченець1.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\bin\Debug\двореченець1.exe.config
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\bin\Debug\двореченець1.exe
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\bin\Debug\двореченець1.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\obj\Debug\двореченець1.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\obj\Debug\двореченець1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\obj\Debug\двореченець1.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\obj\Debug\двореченець1.exe
+C:\Users\2022\Desktop\Курс№1\Visual\двореченець1\obj\Debug\двореченець1.pdb
